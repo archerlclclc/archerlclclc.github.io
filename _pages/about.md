@@ -12,8 +12,8 @@ I am an Assistant Professor in the School of Computing and Information Technolog
 
 Publications
 ======
-* [**IEEE ICDCS 2019**]Runhua Xu, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems, Dallas, Texas, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-ICDCS.pdf)]
-* [**ACM WebSci 2019**]Chao Li and Balaji Palanisamy. "Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit." Proc. of 11th ACM International Web Science Conference, Boston, MA, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-WebSci.pdf)]
+* [**ICDCS'19**] Runhua Xu, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems, Dallas, Texas, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-ICDCS.pdf)]
+* [**WebSci'19**] **Chao Li** and Balaji Palanisamy. "Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit." Proc. of 11th ACM International Web Science Conference, Boston, MA, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-WebSci.pdf)]
 * asd
 * asd
 
