@@ -12,7 +12,7 @@ I am an Assistant Professor in the School of Computing and Information Technolog
 
 Publications
 ======
-* asd
+* Xu, Runhua, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems (**ICDCS 2019**), Dallas, Texas, USA. 
 * asd
 * asd
 * asd
