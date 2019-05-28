@@ -14,8 +14,9 @@ Publications
 ======
 * [**ICDCS'19**] Runhua Xu, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems, Dallas, Texas, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-ICDCS.pdf)]
 * [**WebSci'19**] **Chao Li** and Balaji Palanisamy. "Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit." Proc. of 11th ACM International Web Science Conference, Boston, MA, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-WebSci.pdf)]
-* asd
-* asd
+* [**BlockDM'19**] **Chao Li**, Balaji Palanisamy and Runhua Xu. "Scalable and Privacy-preserving Design of On/Off-chain Smart Contracts." Proc. of  1st International Workshop on Blockchain and Data Management, in Conjunction with ICDE 2019. [[PDF](http://archerlclclc.github.io/files/2019-C-BlockDM.pdf)]
+* [**CC**] **Chao Li** and Balaji Palanisamy. "Reversible spatio-temporal perturbation for protecting location privacy." Elsevier Computer Communications 135, 16-27, 2019. [[PDF](http://archerlclclc.github.io/files/2019-J-CC.pdf)]
+* [**CC**] **Chao Li** and Balaji Palanisamy. "Privacy in Internet of Things: from Principles to Technologies." IEEE Internet of Things Journal 6 (1), 488-505, 2019. [[PDF](http://archerlclclc.github.io/files/2019-J-IOTJ.pdf)]
 
 A data-driven personal website
 ======
