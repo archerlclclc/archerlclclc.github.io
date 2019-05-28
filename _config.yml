@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Li"
+title                    : "Dr. Chao Li"
 title_separator          : "-"
 name                     : &name "Chao Li"
 description              : &description "Assistant Professor at Beijing Jiaotong University"
