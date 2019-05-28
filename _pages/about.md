@@ -16,7 +16,12 @@ Publications
 * [**WebSci'19**] **Chao Li** and Balaji Palanisamy. "Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit." Proc. of 11th ACM International Web Science Conference, Boston, MA, USA. [[PDF](http://archerlclclc.github.io/files/2019-C-WebSci.pdf)]
 * [**BlockDM'19**] **Chao Li**, Balaji Palanisamy and Runhua Xu. "Scalable and Privacy-preserving Design of On/Off-chain Smart Contracts." Proc. of  1st International Workshop on Blockchain and Data Management, in Conjunction with ICDE 2019. [[PDF](http://archerlclclc.github.io/files/2019-C-BlockDM.pdf)]
 * [**CC**] **Chao Li** and Balaji Palanisamy. "Reversible spatio-temporal perturbation for protecting location privacy." Elsevier Computer Communications 135, 16-27, 2019. [[PDF](http://archerlclclc.github.io/files/2019-J-CC.pdf)]
-* [**CC**] **Chao Li** and Balaji Palanisamy. "Privacy in Internet of Things: from Principles to Technologies." IEEE Internet of Things Journal 6 (1), 488-505, 2019. [[PDF](http://archerlclclc.github.io/files/2019-J-IOTJ.pdf)]
+* [**IoTJ**] **Chao Li** and Balaji Palanisamy. "Privacy in Internet of Things: from Principles to Technologies." IEEE Internet of Things Journal 6 (1), 488-505, 2019. [[PDF](http://archerlclclc.github.io/files/2019-J-IOTJ.pdf)]
+* [**HiPC'18**] **Chao Li** and Balaji Palanisamy. "Decentralized Privacy-preserving Timed Execution in Blockchain-based Smart Contract Platforms." Proc. of 25th IEEE International Conference on High Performance Computing, Data, and Analytics, Bengaluru, India. [[PDF](http://archerlclclc.github.io/files/2018-C-HIPC.pdf)]
+* [**SRDS'18**] **Chao Li** and Balaji Palanisamy. "Decentralized release of self-emerging data using smart contracts." Proc. of 37th IEEE International Symposium on Reliable Distributed Systems, Salvador, Brazil. [[PDF](http://archerlclclc.github.io/files/2018-C-SRDS.pdf)]
+* [**C&S**] Lei Jin, **Chao Li**, Balaji Palanisamy and James Joshi. "k-Trustee: Location injection attack-resilient anonymization for location privacy." Elsevier Computers & Security 78, 212-230. [[PDF](http://archerlclclc.github.io/files/2018-J-CS.pdf)]
+* [**BigData Congress'18**] **Chao Li**, Balaji Palanisamy and Prashant Krishnamurthy. "Reversible Data Perturbation Techniques for Multi-level Privacy-preserving Data Publication." Proc. of 7th International Congress on Big Data, Seattle, USA. [[PDF](http://archerlclclc.github.io/files/2018-C-BDC.pdf)][**Received Best Paper Award**]
+
 
 A data-driven personal website
 ======
