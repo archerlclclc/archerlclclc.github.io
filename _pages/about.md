@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the School of Computing and Information Technology in Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittburgh](https://www.pitt.edu/) in 2019.
+I am an Assistant Professor in the School of Computing and Information Technology in Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my MSc degree from [Imperial College London](https://www.imperial.ac.uk/) and my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittburgh](https://www.pitt.edu/).
 
 A data-driven personal website
 ======
