@@ -13,8 +13,7 @@ I am an Assistant Professor in the School of Computing and Information Technolog
 
 Publications
 ======
-* [**ICDCS'19**] Runhua Xu, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems, Dallas, Texas, USA. [[PDF](https://www.researchgate.net/profile/Chao_Li146/publication/332462782_Incentivized_Blockchain-based_Social_Media_Platforms_A_Case_Study_of_Steemit/links/5cba580d4585156cd7a47884/Incentivized-Blockchain-based-Social-Media-Platforms-A-Case-Study-of-Steemit.pdf)]
--- https://archerlclclc.github.io/files/2019-C-ICDCS.pdf
+* [**ICDCS'19**] Runhua Xu, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems, Dallas, Texas, USA. [[PDF](https://archerlclclc.github.io/files/2019-C-ICDCS.pdf)]
 * [**WebSci'19**] **Chao Li** and Balaji Palanisamy. "Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit." Proc. of 11th ACM International Web Science Conference, Boston, MA, USA. [[PDF](https://archerlclclc.github.io/files/2019-C-WebSci.pdf)]
 * [**BlockDM'19**] **Chao Li**, Balaji Palanisamy and Runhua Xu. "Scalable and Privacy-preserving Design of On/Off-chain Smart Contracts." Proc. of  1st International Workshop on Blockchain and Data Management, in Conjunction with ICDE 2019. [[PDF](https://archerlclclc.github.io/files/2019-C-BlockDM.pdf)]
 * [**CC**] **Chao Li** and Balaji Palanisamy. "Reversible spatio-temporal perturbation for protecting location privacy." Elsevier Computer Communications 135, 16-27, 2019. [[PDF](https://archerlclclc.github.io/files/2019-J-CC.pdf)]
