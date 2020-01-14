@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Assistant Professor in the School of Computing and Information Technology in Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my MSc degree from [Imperial College London](https://www.imperial.ac.uk/) and my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittburgh](https://www.pitt.edu/).
 
-## Publications
+Publications
 ======
 * [**ICDCS'19**] Runhua Xu, James BD Joshi, and **Chao Li**. "CryptoNN: Training Neural Networks over Encrypted Data." Proc. of 39th IEEE International Conference on Distributed Computing Systems, Dallas, Texas, USA. [[PDF](https://archerlclclc.github.io/files/2019-C-ICDCS.pdf)]
 * [**WebSci'19**] **Chao Li** and Balaji Palanisamy. "Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit." Proc. of 11th ACM International Web Science Conference, Boston, MA, USA. [[PDF](https://archerlclclc.github.io/files/2019-C-WebSci.pdf)]
