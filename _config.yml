@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Chao Li"
   avatar           : "chaoli.png"
-  bio              : "Ph.D., Assistant Professor, \n\nSchool of Computing and Information Technology, \n\nBeijing Jiaotong University."
+  bio              : "Ph.D., Assistant Professor,"
+  bio              : "School of Computing and Information Technology,"
+  bio              : "Beijing Jiaotong University."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
