@@ -9,7 +9,8 @@ redirect_from:
   - /home.html
 ---
 
-I am an Assistant Professor in the School of Computing and Information Technology at Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my MSc degree from [Imperial College London](https://www.imperial.ac.uk/) and my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittsburgh](https://www.pitt.edu/). [[CV](https://archerlclclc.github.io/files/Resume_for_Chao_Li.pdf)][[Chinese version](http://faculty.bjtu.edu.cn/9363/)]
+I am an Assistant Professor in the School of Computing and Information Technology at Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my MSc degree from [Imperial College London](https://www.imperial.ac.uk/) and my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittsburgh](https://www.pitt.edu/). [[CV](https://archerlclclc.github.io/files/Resume_for_Chao_Li.pdf)]
+[——>[My Chinese Homepage]<——(http://faculty.bjtu.edu.cn/9363/)]
 
 Publications
 ======
