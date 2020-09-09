@@ -17,7 +17,7 @@ I am an Assistant Professor in the School of Computing and Information Technolog
 
 Publications
 ======
-* [**SRDS'20**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Jian Wang and Jiqiang Liu. "NF-Crowd: Nearly-free Blockchain-based Crowdsourcing." Proc. of 39th IEEE International Symposium on Reliable Distributed Systems, Shanghai, China, accepted.
+* [**SRDS'20**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Jian Wang and Jiqiang Liu. "NF-Crowd: Nearly-free Blockchain-based Crowdsourcing." Proc. of 39th IEEE International Symposium on Reliable Distributed Systems, Shanghai, China, accepted. [[PDF](https://archerlclclc.github.io/files/2020-C-SRDS.pdf)]
 * [**ICWS'20**] **Chao Li** and Balaji Palanisamy. "EventWarden: A Decentralized Event-driven Proxy Service for Outsourcing Arbitrary Transactions in Ethereum-like Blockchains." Proc. of 27rd IEEE International Conference on Web Services, Beijing, China. [[PDF](https://archerlclclc.github.io/files/2020-C-ICWS.pdf)]
 * [**ICBC'20**] **Chao Li** and Balaji Palanisamy. "Comparison of Decentralization in DPoS and PoW Blockchains." Proc. of 2020 International Conference on Blockchain, Honolulu, Hawaii, USA. [[PDF](https://archerlclclc.github.io/files/2020-C-ICBC.pdf)]
 * [**CIC'19**] Balaji Palanisamy and **Chao Li**. "Self-emerging Data Infrastructures." Proc. of 5th IEEE International Conference on Collaboration and Internet Computing, Los Angeles, California, USA. [[PDF](https://archerlclclc.github.io/files/2019-V-CIC.pdf)]
