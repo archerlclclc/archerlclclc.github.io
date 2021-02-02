@@ -1,0 +1,8 @@
+@inproceedings{li2020comparison,
+  title={Comparison of decentralization in dpos and pow blockchains},
+  author={Li, Chao and Palanisamy, Balaji},
+  booktitle={International Conference on Blockchain},
+  pages={18--32},
+  year={2020},
+  organization={Springer}
+}
