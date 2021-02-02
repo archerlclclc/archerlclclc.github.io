@@ -1,0 +1,7 @@
+@inproceedings{li2019incentivized,
+  title={Incentivized blockchain-based social media platforms: A case study of steemit},
+  author={Li, Chao and Palanisamy, Balaji},
+  booktitle={Proceedings of the 10th ACM Conference on Web Science},
+  pages={145--154},
+  year={2019}
+}
