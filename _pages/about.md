@@ -17,7 +17,7 @@ I am an Assistant Professor in the School of Computing and Information Technolog
 
 Publications
 ======
-* [**TDSC**] QRunhua Xu, James B.D. Joshi and **Chao Li**. “NN-EMD: Efficiently Training Neural Networks using Encrypted Multi-sourced Datasets.” IEEE Transactions on Dependable and Secure Computing, accepted. [[PDF](https://arxiv.org/pdf/2012.10547.pdf)]
+* [**TDSC**] QRunhua Xu, James B.D. Joshi and **Chao Li**. “NN-EMD: Efficiently Training Neural Networks using Encrypted Multi-sourced Datasets.” IEEE Transactions on Dependable and Secure Computing, accepted. [[PDF](https://arxiv.org/pdf/2012.10547.pdf)][[Appendix](https://xurunhua.com/resource/papers/tdsc_nn-emd_appendix.pdf)]
 * [**ICDEW'21**] Qinwei Lin, **Chao Li**, Xifeng Zhao and Xianhai Chen. "Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities." In 2021 IEEE 37th International Conference on Data Engineering Workshops (ICDEW). [[PDF](https://arxiv.org/pdf/2101.10699.pdf)]
 * [**CODASPY'21**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Jinlai Xu and Jingzhe Wang. "SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform." Proc. of 11th ACM Conference on Data and Application Security and Privacy, Virtual Event, USA. [[PDF](https://archerlclclc.github.io/files/2021-C-CODASPY.pdf)][[DATASET](https://github.com/archerlclclc/SteemOps)]
 * [**SRDS'20**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Jian Wang and Jiqiang Liu. "NF-Crowd: Nearly-free Blockchain-based Crowdsourcing." Proc. of 39th IEEE International Symposium on Reliable Distributed Systems, Shanghai, China. [[PDF](https://archerlclclc.github.io/files/2020-C-SRDS.pdf)]
