@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chao Li @ Beijing Jiaotong University"
 title_separator          : "-"
 name                     : &name "Chao Li"
-description              : &description "Assistant Professor at Beijing Jiaotong University"
+description              : &description "Associate Professor at Beijing Jiaotong University"
 url                      : https://archerlclclc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "archerlclclc/archerlclclc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chao Li"
   avatar           : "chaoli.png"
-  bio              : "Ph.D., Assistant Professor, School of Computing and Information Technology, Beijing Jiaotong University."
+  bio              : "Ph.D., Associate Professor, School of Computer and Information Technology, Beijing Jiaotong University."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
