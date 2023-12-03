@@ -20,7 +20,7 @@ I am an Associate Professor in the School of Computer and Information Technology
 Publications
 ======
 
-*  [**CCS'23**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Li Duan, Jiqiang Liu, Wei Wang. "How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance." ACM SIGSAC Conference on Computer and Communications Security, Copenhagen, Denmark. [[PDF](https://arxiv.org/pdf/2310.18596.pdf)]
+*  [**CCS'23**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Li Duan, Jiqiang Liu, Wei Wang. "How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance." ACM SIGSAC Conference on Computer and Communications Security, Copenhagen, Denmark. [[PDF](https://arxiv.org/pdf/2310.18596.pdf)]  **<span style="color:red;">Received Distinguished Paper Award</span>**
 * [**TDSC**] Runhua Xu, **Chao Li** and James Joshi. "Blockchain-based Transparency Framework for Privacy Preserving Third-party Services."  IEEE Transactions on Dependable and Secure Computing, 20 (3), 2302-2313, 2023. [[PDF](https://arxiv.org/pdf/2102.01249.pdf)]
 * [**BSCI'23**] **Chao Li**, Runhua Xu, and Li Duan. "Liquid democracy in DPoS blockchains." In Proceedings of the 5th ACM International Symposium on Blockchain and Secure Critical Infrastructure, Melbourne, Australia. [[PDF](https://arxiv.org/pdf/2309.01090.pdf)]
 * [**ICWSM'23**] **Chao Li**, Runhua Xu, and Li Duan. "Characterizing Coin-Based Voting Governance in DPoS Blockchains." In Proceedings of the International AAAI Conference on Web and Social Media, Limassol, Cyprus. [[PDF](https://ojs.aaai.org/index.php/ICWSM/article/download/22225/22004)]
