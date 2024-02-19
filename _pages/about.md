@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Associate Professor in the School of Computer and Information Technology at Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my MSc degree from [Imperial College London](https://www.imperial.ac.uk/) and my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittsburgh](https://www.pitt.edu/).
 
-<span style="color:chocolate;">We are hosting a [Special Issue on 'Security, Privacy, and Trust in Blockchain and Web 3.0'](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/26341573/Special%20Issues/IET_CFP_BC_SPTBW-1699613739477.pdf) in the journal [IET Blockchain](https://ietresearch.onlinelibrary.wiley.com/journal/26341573). The submission deadline is June 30, 2024. We welcome your submissions!</span>
+<span style="color:navy;">We are hosting a [Special Issue on 'Security, Privacy, and Trust in Blockchain and Web 3.0'](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/26341573/Special%20Issues/IET_CFP_BC_SPTBW-1699613739477.pdf) in the journal [IET Blockchain](https://ietresearch.onlinelibrary.wiley.com/journal/26341573). The submission deadline is June 30, 2024. We welcome your submissions!</span>
 
 --->[[My Chinese Homepage](http://faculty.bjtu.edu.cn/9363/)]<---
 
@@ -19,7 +19,7 @@ I am an Associate Professor in the School of Computer and Information Technology
 
 Publications
 ======
-
+* [**TDSC**] Runhua Xu, Bo Li, **Chao Li**, James Joshi, Shuai Ma, Tyler Zhou, Jin Dong and Jianxin Li. “TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning.” IEEE Transactions on Dependable and Secure Computing, 2024. [[PDF](https://ieeexplore.ieee.org/document/10381802)]
 *  [**CCS'23**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Li Duan, Jiqiang Liu, Wei Wang. "How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance." ACM SIGSAC Conference on Computer and Communications Security, Copenhagen, Denmark. [[PDF](https://arxiv.org/pdf/2310.18596.pdf)][[SLIDES](https://archerlclclc.github.io/files/CCS23_takeover_slides.pdf)]  [**<span style="color:red;">Received Distinguished Paper Award</span>**]
 * [**TDSC**] Runhua Xu, **Chao Li** and James Joshi. "Blockchain-based Transparency Framework for Privacy Preserving Third-party Services."  IEEE Transactions on Dependable and Secure Computing, 20 (3), 2302-2313, 2023. [[PDF](https://arxiv.org/pdf/2102.01249.pdf)]
 * [**BSCI'23**] **Chao Li**, Runhua Xu, and Li Duan. "Liquid democracy in DPoS blockchains." In Proceedings of the 5th ACM International Symposium on Blockchain and Secure Critical Infrastructure, Melbourne, Australia. [[PDF](https://arxiv.org/pdf/2309.01090.pdf)]
