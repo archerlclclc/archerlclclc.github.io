@@ -19,6 +19,7 @@ I am an Associate Professor in the School of Computer and Information Technology
 
 Publications
 ======
+* [**TSC**] **Chao Li** and Balaji Palanisamy. “T-Watch: Towards Timed Execution of Private Transaction in Blockchains.” IEEE Transactions on Services Computing, accepted, 2024. [[PDF](https://arxiv.org/pdf/2405.08268.pdf)]
 * [**TDSC**] Runhua Xu, Bo Li, **Chao Li**, James Joshi, Shuai Ma, Tyler Zhou, Jin Dong and Jianxin Li. “TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning.” IEEE Transactions on Dependable and Secure Computing, 2024. [[PDF](https://ieeexplore.ieee.org/document/10381802)]
 *  [**CCS'23**] **Chao Li**, Balaji Palanisamy, Runhua Xu, Li Duan, Jiqiang Liu, Wei Wang. "How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance." ACM SIGSAC Conference on Computer and Communications Security, Copenhagen, Denmark. [[PDF](https://arxiv.org/pdf/2310.18596.pdf)][[SLIDES](https://archerlclclc.github.io/files/CCS23_takeover_slides.pdf)]  [**<span style="color:red;">Received Distinguished Paper Award</span>**]
 * [**TDSC**] Runhua Xu, **Chao Li** and James Joshi. "Blockchain-based Transparency Framework for Privacy Preserving Third-party Services."  IEEE Transactions on Dependable and Secure Computing, 20 (3), 2302-2313, 2023. [[PDF](https://arxiv.org/pdf/2102.01249.pdf)]
