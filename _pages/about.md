@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Associate Professor in the School of Computer and Information Technology at Beijing Jiaotong University. My current research interests are focused on Blockchain and Data Privacy. I received my MSc degree from [Imperial College London](https://www.imperial.ac.uk/) and my Ph.D. degree in [Information Science](http://sci.pitt.edu/) from [University of Pittsburgh](https://www.pitt.edu/).
 
-<span style="color:navy;">We are hosting a [Special Issue on 'Security, Privacy, and Trust in Blockchain and Web 3.0'](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/26341573/Special%20Issues/IET_CFP_BC_SPTBW-1699613739477.pdf) in the journal [IET Blockchain](https://ietresearch.onlinelibrary.wiley.com/journal/26341573). The submission deadline is June 30, 2024. We welcome your submissions!</span>
+<span style="color:navy;">We are hosting a [Special Issue on 'Security, Privacy, and Trust in Blockchain and Web 3.0'](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/26341573/Special%20Issues/IET_CFP_BC_SPTBW-1699613739477.pdf) in the journal [IET Blockchain](https://ietresearch.onlinelibrary.wiley.com/journal/26341573). The submission deadline is October 30, 2024. We welcome your submissions!</span>
 
 --->[[My Chinese Homepage](http://faculty.bjtu.edu.cn/9363/)]<---
 
