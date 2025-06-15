@@ -13,7 +13,7 @@ I am an Associate Professor in the School of Computer and Information Technology
 
 --->[[My Chinese Homepage](http://faculty.bjtu.edu.cn/9363/)]<---
 
---->[[My CV](https://archerlclclc.github.io/files/Resume_for_Chao_Li_v2024.12.pdf)]<---
+--->[[My CV](https://archerlclclc.github.io/files/Resume_for_Chao_Li_v2025.5.pdf)]<---
 
 Publications
 ======
